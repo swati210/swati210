@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swati210
+- 👋 Hi, I’m @swati
 - 👀 I’m interested in technology
 - 💞️ I’m looking to collaborate on Microsoft
 
