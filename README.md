@@ -1,6 +1,7 @@
-- 👋 Hi, I’m swati
-- 👀 I’m interested in technology
-- 💞️ I’m looking to collaborate on Microsoft
+- 👋 Hi, I’m swati.
+- I'm  Data Science Student.
+- 👀 I’m interested in Data Science ,computer Science & infoemation Technology .
+- 💞️ I’m looking to collaborate on Microsoft, IBM, Amazon,Google.
 
 
 
